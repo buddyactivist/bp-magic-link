@@ -3,7 +3,7 @@
  * Plugin Name: BP Magic Link
  * Description: Registrazione e accesso a BuddyPress tramite Magic Link via Email con PIN di sicurezza per Admin.
  * Version: 1.2
- * Author: BuddyActivist
+ * Author: Il tuo nome
  * Text Domain: bp-magic-link
  * Domain Path: /languages
  */
