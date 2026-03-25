@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Magic Link 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-25 12:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual Template Creation\n"
+"X-Domain: bp-magic-link\n"
+
+#: bp-magic-link.php
+msgid "Sei già connesso."
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Inserisci la tua email per accedere o registrarti:"
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Entra"
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Se l'email è valida, riceverai un messaggio email con un link. Controlla la casella di posta (e lo spam), entra nel messaggio, clicca sul link e verrai indirizzato nel tuo profilo. Se accedi la prima volta dovrai completare la registrazione."
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Email non valida."
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Accesso al sito %s"
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Ciao!\n\nClicca sul link sottostante per accedere o registrarti automaticamente:\n\n%s\n\nQuesto link scadrà in 15 minuti."
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Link non valido o scaduto. Riprova."
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Errore durante la registrazione: "
+msgstr ""
+
+#: bp-magic-link.php
+msgid "Codice di Sicurezza Admin"
+msgstr ""
+
+#: bp-magic-link.php
+msgid "<strong>ERRORE:</strong> Accesso riservato. Codice di sicurezza mancante o errato. Utilizza il Magic Link."
+msgstr ""
